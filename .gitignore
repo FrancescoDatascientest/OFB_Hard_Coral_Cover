@@ -1,0 +1,8 @@
+# Fichiers de données
+*.csv
+*.xlsx
+
+
+# Dossiers de données
+data/
+
