@@ -17,7 +17,7 @@ Ce dépôt contient tous les éléments nécessaires pour reproduire les analyse
   - `ofb_02_advanced_bayesian.ipynb` – Analyse avancée utilisant des modèles **bayésiens**.
 
 - **`data/`** : contient tous les fichiers de données nécessaires pour reproduire les analyses.  
-  > Les fichiers de données ne sont **pas inclus** dans ce dépôt et doivent être placés ici.
+ > **Remarque :** il n’est pas recommandé de stocker les données directement dans le dépôt Git. Les fichiers de données doivent être ajoutés **manuellement** dans ce dossier après avoir été récupérés depuis leur source externe. De manière un peu exceptionnelle, ce dépôt contient les données.
 
 - **`rapports/`** : contient les rapports générés pour la première et la deuxième analyse.
 
@@ -75,8 +75,8 @@ pip install -r requirements.txt
 > Exemple :  
 > ```
 > data/
-> ├─ hard_coral_cover_2026.csv
-> └─ environmental_data.xlsx
+> ├─ GBR_ltmp.csv
+> └─ summary_trace.csv
 > ```
 
 ---
