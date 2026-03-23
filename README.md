@@ -2,9 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.12-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange?logo=jupyter&logoColor=white)
-
-Bienvenue dans le projet **Hard Coral Cover** !  
-Ce dépôt contient tous les éléments nécessaires pour reproduire les analyses réalisées sur les données du projet.
+ 
+Ce dépôt contient tous les éléments nécessaires pour reproduire les analyses réalisées sur les données du projet **Hard Coral Cover**.
 
 ---
 
