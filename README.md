@@ -85,7 +85,7 @@ pip install -r requirements.txt
 - Ouvrez Jupyter Notebook ou JupyterLab :  
 
 ```bash
-jupyter notebook
+jupyter lab
 ```
 ## Les notebooks
 
