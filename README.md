@@ -100,6 +100,25 @@ Les notebooks sont dans le dossier `notebooks/` :
 
 ---
 
+## Application streamlit
+
+
+Une application interactive a été développée avec Streamlit afin de présenter les résultats de l’étude.
+Le fichier principal se trouve dans le dossier : `streamlit_app`
+
+Pour lancer l’application, exécutez la commande suivante depuis la racine du projet :
+
+```bash
+streamlit_app/app.py
+```
+
+L’application est composée de trois sections :
+- **Accueil** : présentation de la démarche et aperçu des données
+- **Analyse descriptive** : visualisations des données
+- **Analyse prédictive** : résultats du modèle de machine learning
+
+---
+
 ## Consulter les rapports
 
 Les résultats et conclusions sont disponibles dans le dossier `rapports/` pour chaque analyse.
