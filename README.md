@@ -109,7 +109,7 @@ Le fichier principal se trouve dans le dossier : `streamlit_app`
 Pour lancer l’application, exécutez la commande suivante depuis la racine du projet :
 
 ```bash
-streamlit_app/app.py
+streamlit run streamlit_app/app.py
 ```
 
 L’application est composée de trois sections :
